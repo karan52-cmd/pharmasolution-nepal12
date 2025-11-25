@@ -1,0 +1,7 @@
+{
+  "name": "Pharma Solution Nepal",
+  "description": "A comprehensive educational platform for pharmacy students, instructors, and administrators with AI-powered doubt solving.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
